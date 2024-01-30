@@ -1,6 +1,8 @@
 {
   "name": "anyerr",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "author": "Hizkia Felix <felix@hizkia.dev>",
+  "homepage": "https://github.com/hizkifw/anyerr",
   "type": "module",
   "main": "./dist/anyerr.umd.cjs",
   "module": "./dist/anyerr.js",
